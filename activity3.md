@@ -454,8 +454,8 @@ from __future__ import annotations
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from langchain_ollama import ChatOllama
 
-
-MODEL_NAME = "gemma3:1b"
+OLLAMA_BASE_URL = "http://127.0.0.1:11434"
+MODEL_NAME = "qwen2.5:0.5b-instruct"
 DEFAULT_SYSTEM = (
     "You are a concise learning assistant for first-year students. "
     "Explain technical ideas in plain language. "
@@ -475,6 +475,7 @@ history = [SystemMessage(content=system_instruction)]
 def build_model() -> ChatOllama:
     """Create a LangChain chat model using the current settings."""
     return ChatOllama(
+        base_url=OLLAMA_BASE_URL,
         model=MODEL_NAME,
         temperature=settings["temperature"],
         top_p=settings["top_p"],
