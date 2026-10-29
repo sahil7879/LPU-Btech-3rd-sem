@@ -1,5 +1,6 @@
 # LPU-Btech-3rd-sem
-# [CA1](https://docs.google.com/forms/d/e/1FAIpQLScQZ3zEXi54MkOF0MR3hLaH0_A6wRL2WVF217_ftNsHB0pYJA/viewform?usp=dialog)
+### CA1
+### [CA2](https://docs.google.com/forms/d/e/1FAIpQLSdsMgvOXJzP3J0ZpNXE5o9IKC4GgXvYqx5MMgVGNddEgXV-ug/viewform?usp=dialog)
 ## diagrams or notes 
 - https://excalidraw.com/#json=KWgfgtINRRwzSnM-DlNuj,MfLp2l4b8nrAYjXSenDtrg
 
