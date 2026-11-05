@@ -12,3 +12,4 @@
 - [Create a Shopping Agent with Google AI Studio](https://www.skills.google/focuses/153957?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=99081828)
 - [Protecting Sensitive Data in Gen AI Model Responses](https://www.skills.google/focuses/109505?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=99081974)
 - [Design Industry-Specific Structured Prompts in Google AI Studio](https://www.skills.google/focuses/165079?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=105105518)
+- [Integrate a LangChain Agent with a Flutter App Using Agent Platform](https://www.skills.google/focuses/104006?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=105105681)
