@@ -1,4 +1,8 @@
 # LPU-Btech-3rd-sem
+
+## learning paths
+- [Generative AI leader certification](https://www.skills.google/paths/1951?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=106163572)
+- [Beginner: Introduction to Generative AI](https://www.skills.google/paths/118?catalog_rank=%7B%22rank%22%3A12%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=106163653)
 ### CA1
 ### [CA2](https://docs.google.com/forms/d/1wXiYdy9R7ygGZgyU5wN7DAfuBLz-mtsKT9o7ZSbO1wE/edit)
 ## diagrams or notes 
